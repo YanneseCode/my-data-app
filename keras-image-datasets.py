@@ -1,7 +1,7 @@
 # Install Dependencies
-!pip install streamlit
-!pip install tensorflow
-!pip install matplotlib
+pip install streamlit
+pip install tensorflow
+pip install matplotlib
 import streamlit as st
 import tensorflow
 from tensorflow.keras import datasets
